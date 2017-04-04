@@ -15,8 +15,12 @@ main:after {
   clear: both;
 }
 
-section {
+#buttons {
   float: left;
+}
+
+section {
+  float: right;
   width: 47%;
   margin: 1%;
   border: 1px solid grey;
